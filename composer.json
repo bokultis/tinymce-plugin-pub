@@ -1,0 +1,8 @@
+{
+    "name": "horisen/cms-tiny-pub",
+    "description": "Horisen CMS tiny public plugin",
+    "type": "horisen-cms_pub",
+    "extra": {
+        "installer-name": "tinymce"
+    }
+}
